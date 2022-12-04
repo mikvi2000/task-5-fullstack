@@ -26,4 +26,4 @@ request : id
 - Membangun Blog Sederhana Menggunakan laravel Blade serta Laravel UI
 Mohon maaf untuk task ini saya tidak dapat menyelesaikan karena muncul error ketika menginstall artisan ui vue dan melakukan npm install & npm run dev
 
-gambar error yang saya alami saya sertakan pada folder ini
+gambar error yang saya alami saya sertakan pada folder ini, mungkin kakak/teman-teman dapat memberikan saran terhadap permasalahan saya. Terimakasih
